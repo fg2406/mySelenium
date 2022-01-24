@@ -83,7 +83,7 @@ public class C03_BestBuyAssertions {
     @After
     public  void  teardown(){
 
-        // driver.close();
+         driver.close();
     }
 
 }
